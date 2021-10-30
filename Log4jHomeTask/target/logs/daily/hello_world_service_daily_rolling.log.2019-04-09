@@ -1,0 +1,6 @@
+15:00:01,263  INFO main App:main:10 - Hello, world
+15:00:01,279  WARN main App:main:11 - Bye,world
+15:00:01,279 DEBUG main xml:main:13 - Write in file!
+15:00:22,949  INFO main App:main:10 - Hello, world
+15:00:22,965  WARN main App:main:11 - Bye,world
+15:00:22,965 DEBUG main xml:main:13 - Write in file!

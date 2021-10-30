@@ -1,0 +1,3 @@
+08:30:03,735  INFO main App:main:10 - Hello, world
+08:30:03,794  WARN main App:main:11 - Bye,world
+08:30:03,796 DEBUG main xml:main:13 - Write in file!
